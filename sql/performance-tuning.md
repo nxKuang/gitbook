@@ -1,10 +1,10 @@
-# Initial page
+# Performance Tuning
 
 ## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
-```aspnet
+```
 $ give me super-powers
 ```
 
